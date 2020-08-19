@@ -1,0 +1,4303 @@
+<!DOCTYPE html>
+<html lang='en' xmlns='http://www.w3.org/1999/xhtml'>
+<head>
+<title>Magic: the Gathering Modern Decks and Metagame Breakdown (All Decks)</title>
+<meta name="description" content="Popular Modern Magic: the Gathering decks with prices from tournament results.">
+<meta name="keywords" content="decks, decklists, tournament results, archetypes, metagame, magic, mtg, magic the gathering, magic the gathering online, mtgo, daily events">
+<meta property="og:title" content="Magic: the Gathering Modern Decks and Metagame Breakdown (All Decks)">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.mtggoldfish.com/metagame/modern/full">
+<meta property="og:description" content="Popular Modern Magic: the Gathering decks with prices from tournament results.">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@mtggoldfish">
+<link rel="alternate" type="application/atom+xml" title="ATOM" href="https://www.mtggoldfish.com/feed" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="https://www.mtggoldfish.com/feed.rss" />
+<link href='https://assets1.mtggoldfish.com/assets/goldfish-32-22599602a047942143b34b034de85b0968d377caf56ff4a12c06146a4c13b989.png' rel='apple-touch-icon'>
+<link href='https://assets1.mtggoldfish.com/assets/goldfish-72-f4155e01f71cfcaaa34af38dea8296e912c56eb5474a0ecc60064b4601ffebd6.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='https://assets1.mtggoldfish.com/assets/goldfish-114-1d9d14e0a25de8fa2df41aed9ef917d10c27f55d07a2ca60c34331c56c6b8030.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='https://assets1.mtggoldfish.com/assets/goldfish-144-fbf44d4bca87904f865574e1cc5ae42ac3789e284b765bc16eb920373b14b906.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='https://assets1.mtggoldfish.com/assets/goldfish-64-f5b29fefb4ab86245883253afa5faffc2ffae42f26cd0291e620c074f354b3a6.png' rel='apple-touch-icon-precomposed'>
+<link href='https://assets1.mtggoldfish.com/assets/goldfish-32-22599602a047942143b34b034de85b0968d377caf56ff4a12c06146a4c13b989.png' rel='shortcut icon' type='image/png'>
+<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700,900|Open+Sans' rel='stylesheet'>
+<meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="vmTCbcNFSER11yQ7sFb85Xvh5iLZL7yS08EwYXaiVAS9wV/x4W9nLADUZLGiTXq2UwhQKw3l04ehMzsSuX4LjQ==" />
+<link rel="stylesheet" media="all" href="https://assets1.mtggoldfish.com/assets/application-7cc5263e55d07cb6f32f8be85c9cc859792f7c7789b82f250c162f58ac5d7ca9.css" />
+<link rel="stylesheet" media="print" href="https://assets1.mtggoldfish.com/assets/print-6ea5076dba0b9bf0a07bd1b6ba2c5f860ceb3acc4e7adac560bbaf6f8f89b26a.css" />
+<script>(function() {
+var _fbq = window._fbq || (window._fbq = []);
+if (!_fbq.loaded) {
+var fbds = document.createElement('script');
+fbds.async = true;
+fbds.src = '//connect.facebook.net/en_US/fbds.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(fbds, s);
+_fbq.loaded = true;
+}
+_fbq.push(['addPixelId', '928681210525176']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=928681210525176&amp;ev=PixelInitialized" /></noscript>
+
+<script type="text/javascript">
+  window["nitroAds"] = window["nitroAds"] || {
+    createAd: function() {
+      window.nitroAds.queue.push(["createAd", arguments]);
+    },
+    queue: []
+  };
+</script>
+<script async src="https://s.nitropay.com/ads-243.js"></script>
+
+</head>
+<body>
+<img alt="MTGGoldfish Black and White Logo" class="layout-print-logo" src="https://assets1.mtggoldfish.com/assets/print-logo-b4db554933e3d44ebd0e4d026098dbab515105e53876a7c8f027e2dc6fbac816.png" />
+<div class='layout-navbar-wrapper'>
+<nav class='navbar navbar-default layout-navbar-top' role='navigation'>
+<div class='navbar-brand-desktop'>
+<a aria-label="Home" href="/"><img class=" sprite-logo-with-type" alt="MTGGoldfish Home" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" />
+</a></div>
+<div class='navbar-header'>
+<button aria-controls='navbar' aria-expanded='false' class='layout-navbar-toggle navbar-toggle collapsed' data-target='#navbar' data-toggle='collapse' type='button'>
+<span class='sr-only'>Toggle navigation</span>
+<span class='icon-bar'></span>
+<span class='icon-bar'></span>
+<span class='icon-bar'></span>
+</button>
+<a class='navbar-brand layout-navbar-brand' href='/'>
+<img class="layout-brand-image img-circle sprite-goldfish-navbar-logo" alt="MTGGoldfish Icon" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" />
+</a>
+</div>
+<div class='navbar-collapse collapse layout-navbar-collapse' id='navbar'>
+<ul class='nav navbar-nav'>
+<li class='dropdown'>
+<a class='dropdown-toggle' data-toggle='dropdown' href='#'>
+<img alt="Amonkhet Remastered Symbol" style="height: 20px" src="https://images1.mtggoldfish.com/uploads/45730da7-910e-4b2c-81a9-c9eaccad1664/AKR.png" />
+Amonkhet Remastered
+<span class='caret'></span>
+<ul class='dropdown-menu' role='menu'>
+<li><a href="/spoilers/Amonkhet+Remastered">Card Previews</a></li>
+</ul>
+</a>
+</li>
+<li class='dropdown'>
+<a class='dropdown-toggle' data-toggle='dropdown' href='#'>
+<img alt="Double Masters Symbol" style="height: 20px" src="https://images1.mtggoldfish.com/uploads/391a9439-6fa5-40e2-9409-86eb3b13d907/2XM.png" />
+Double Masters
+<span class='caret'></span>
+<ul class='dropdown-menu' role='menu'>
+<li><a href="/spoilers/Double+Masters">Card Previews</a></li>
+<li><a href="/articles/search?tag=double+masters+daily+spoilers">Daily Video Reviews</a></li>
+<li><a href="/index/2XM">Prices</a></li>
+<li><a href="/index/P2XM">Promo Prices</a></li>
+</ul>
+</a>
+</li>
+<li class='dropdown'>
+<a class='dropdown-toggle' data-toggle='dropdown' href='#'>
+Prices
+<span class='caret'></span>
+</a>
+<ul class='dropdown-menu' role='menu'>
+<li><a href="/prices/standard">Price Lists</a></li>
+<li><a href="/movers/standard">Movers and Shakers</a></li>
+</ul>
+</li>
+<li class='dropdown'>
+<a class='dropdown-toggle' data-toggle='dropdown' href='#'>
+Decks
+<span class='caret'></span>
+</a>
+<ul class='dropdown-menu' role='menu'>
+<li><a href="/metagame/standard">Metagame</a></li>
+<li><a href="/format-staples/standard">Format Staples</a></li>
+<li><a href="/superbrew">SuperBrew</a></li>
+<li class='divider' role='presentation'>User Submitted Decks</li>
+<li><a href="/deck/custom/standard">User Submitted Decks</a></li>
+<li><a href="/decks/new">Submit a Deck</a></li>
+</ul>
+</li>
+<li class='dropdown'><a href="/articles">Articles</a></li>
+<li class='dropdown'>
+<a class='dropdown-toggle' data-toggle='dropdown' href='#'>
+Tools
+<span class='caret'></span>
+</a>
+<ul class='dropdown-menu' role='menu'>
+<li><a href="/portfolio">My Collection</a></li>
+<li><a href="/decks">My Decks</a></li>
+<li><a href="/price_alerts">My Price Alerts</a></li>
+<li><a href="/premium">Premium Membership</a></li>
+<li class='divider' role='presentation'></li>
+<li><a href="/tools/deck_pricer">Deck Pricer</a></li>
+<li><a href="/articles/mtggoldfish-arena-companion-app">MTG Arena Companion</a></li>
+</ul>
+</li>
+<li class='dropdown'><a href="https://www.mtggoldfishmerch.com">Store</a></li>
+<li class='dropdown'>
+<a class='dropdown-toggle' data-target='#login-modal' data-toggle='modal' href='#'>
+Login
+</a>
+</li>
+</ul>
+
+</div>
+<form class="layout-searchbar-mobile" role="search" action="/q" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+<div class='layout-header-search-menu'>
+<div class='input-group layout-navbar-input-group'>
+<input type="search" name="query_string" id="query_string" class="form-control card-auto main-search layout-search-input" autofocus="autofocus" />
+<label class='sr-only' for='query_string'>Search Bar</label>
+<div class='input-group-btn'>
+<button aria-label='Search Submit' class='glyphicon glyphicon-search btn btn-default layout-navbar-search-btn' type='submit'></button>
+</div>
+</div>
+</div>
+</form>
+
+</nav>
+</div>
+</body>
+<div class='navbar-ad-container'>
+<div class='layout-top-ad-container layout-top-adsize-responsive'>
+<div id='ad-layout-header'></div>
+</div>
+</div>
+<main class='container-fluid layout-container-fluid' role='main'>
+<div id='error'>
+
+</div>
+<div class='layout-breadcrumb'>
+<strong>Browse &gt;</strong>
+<a href="/">Home</a> / Decks / Metagame /
+<a href="/metagame/modern">Modern</a> /
+<a href="/metagame/modern/full">All Decks</a>
+</div>
+<div class='subNav-menu'>
+<div class='pull-right btn-group' id='toggle-type'>
+<a class='btn btn-default btn-online-muted disabled' href='#online' id='toggle-online'>Online</a>
+<a class='btn btn-default btn-paper-muted ' href='#paper' id='toggle-paper'>Paper</a>
+</div>
+<div class='clear'></div>
+
+<span class='deck-price-online'>
+<!-- items [ [url, label], [url, label] ] -->
+<div class='subNav-menu-mobile'>
+<label class='sr-only' for='menu-format-selection-dc9c53df-f592-408a-ab20-e58964e8b5c3'>Format Selection</label>
+<select class='form-control subNav-menu-select' id='menu-format-selection-dc9c53df-f592-408a-ab20-e58964e8b5c3'>
+<option selected='selected' value=''>Select a Format ...</option>
+<option value='/metagame/standard/full#online'>Standard</option>
+<option value='/metagame/modern/full#online'>Modern</option>
+<option value='/metagame/pioneer/full#online'>Pioneer</option>
+<option value='/metagame/pauper/full#online'>Pauper</option>
+<option value='/metagame/legacy/full#online'>Legacy</option>
+<option value='/metagame/vintage/full#online'>Vintage</option>
+<option value='/metagame/historic/full#online'>Historic</option>
+<option value='/metagame/penny_dreadful/full#online'>Penny Dreadful</option>
+<option value='/metagame/commander_1v1/full#online'>Commander 1v1</option>
+<option value='/metagame/commander/full#online'>Commander</option>
+<option value='/metagame/brawl/full#online'>Brawl</option>
+</select>
+</div>
+<div class='subNav-menu-desktop'>
+<a href="/metagame/standard/full#online">Standard</a>
+|
+<a href="/metagame/modern/full#online">Modern</a>
+|
+<a href="/metagame/pioneer/full#online">Pioneer</a>
+|
+<a href="/metagame/pauper/full#online">Pauper</a>
+|
+<a href="/metagame/legacy/full#online">Legacy</a>
+|
+<a href="/metagame/vintage/full#online">Vintage</a>
+|
+<a href="/metagame/historic/full#online">Historic</a>
+|
+<a href="/metagame/penny_dreadful/full#online">Penny Dreadful</a>
+|
+<a href="/metagame/commander_1v1/full#online">Commander 1v1</a>
+|
+<a href="/metagame/commander/full#online">Commander</a>
+|
+<a href="/metagame/brawl/full#online">Brawl</a>
+</div>
+
+</span>
+<span class='deck-price-paper'>
+<!-- items [ [url, label], [url, label] ] -->
+<div class='subNav-menu-mobile'>
+<label class='sr-only' for='menu-format-selection-a0d132ad-72ab-4c9e-a52c-3d2717116bdd'>Format Selection</label>
+<select class='form-control subNav-menu-select' id='menu-format-selection-a0d132ad-72ab-4c9e-a52c-3d2717116bdd'>
+<option selected='selected' value=''>Select a Format ...</option>
+<option value='/metagame/standard/full#paper'>Standard</option>
+<option value='/metagame/modern/full#paper'>Modern</option>
+<option value='/metagame/pioneer/full#paper'>Pioneer</option>
+<option value='/metagame/pauper/full#paper'>Pauper</option>
+<option value='/metagame/legacy/full#paper'>Legacy</option>
+<option value='/metagame/vintage/full#paper'>Vintage</option>
+<option value='/metagame/historic/full#paper'>Historic</option>
+<option value='/metagame/penny_dreadful/full#paper'>Penny Dreadful</option>
+<option value='/metagame/commander_1v1/full#paper'>Commander 1v1</option>
+<option value='/metagame/commander/full#paper'>Commander</option>
+<option value='/metagame/brawl/full#paper'>Brawl</option>
+</select>
+</div>
+<div class='subNav-menu-desktop'>
+<a href="/metagame/standard/full#paper">Standard</a>
+|
+<a href="/metagame/modern/full#paper">Modern</a>
+|
+<a href="/metagame/pioneer/full#paper">Pioneer</a>
+|
+<a href="/metagame/pauper/full#paper">Pauper</a>
+|
+<a href="/metagame/legacy/full#paper">Legacy</a>
+|
+<a href="/metagame/vintage/full#paper">Vintage</a>
+|
+<a href="/metagame/historic/full#paper">Historic</a>
+|
+<a href="/metagame/penny_dreadful/full#paper">Penny Dreadful</a>
+|
+<a href="/metagame/commander_1v1/full#paper">Commander 1v1</a>
+|
+<a href="/metagame/commander/full#paper">Commander</a>
+|
+<a href="/metagame/brawl/full#paper">Brawl</a>
+</div>
+
+</span>
+</div>
+<div class='metagame-list-full-content'>
+<div class='metagame-list-full-nav'>
+<div class='metagame-header-container'>
+<h1 class='metagame-list-full-title'>
+Modern
+Metagame (All Decks)
+</h1>
+<div class='metagame-re-sort'>
+Showing most popular decks from the last
+<form action="/metagame/re_sort" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+<select name="period" id="metagame-re-sort-select" class="form-control"><option value="7">7 Days</option>
+<option selected="selected" value="14">14 Days</option>
+<option value="30">30 Days</option>
+<option value="90">90 Days</option>
+<option value="365">365 Days</option></select>
+<input type="hidden" name="mformat" id="mformat" value="modern" />
+<input type="hidden" name="page" id="page" />
+<input type="hidden" name="type" id="type" value="online" class="metagame-type-selection" />
+<input type="hidden" name="full" id="full" value="1" />
+</form>
+
+<div class='ajax-indicator'>
+<img alt="Loading Indicator" class="ajax-spinner" src="https://assets1.mtggoldfish.com/assets/ajax-spinner-a7b1da666776500af758ed37c28b4249fd400aa2b62ba5c63b441c6fa0fd7015.gif" />
+</div>
+</div>
+
+</div>
+</div>
+<div id='metagame-decks-container'>
+<div class='archetype-tile' id='467'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Lava Dart' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Lava%2BDart%2B%255BMH1%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/modern-blitz'>
+<span class='sr-only'>Lava Dart</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/modern-blitz#online">Blitz</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/modern-blitz#paper">Blitz</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: blue red'><img class="common-manaCost-manaSymbol sprite-mana_symbols_u" aria-hidden="true" alt="blue" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_r" aria-hidden="true" alt="red" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Lava Dart</li>
+<li>Lightning Bolt</li>
+<li>Monastery Swiftspear</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+28
+</td>
+<td class='percentage col-freq'>
+7.57%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+191 tix
+</span>
+<span class='deck-price-paper'>
+$ 318
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='3981'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Uro, Titan of Nature&#39;s Wrath' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Uro%252C%2BTitan%2Bof%2BNature%2527s%2BWrath%2B%255BTHB%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/modern-uro-piles'>
+<span class='sr-only'>Uro, Titan of Nature&#39;s Wrath</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/modern-uro-piles#online">Uro Piles</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/modern-uro-piles#paper">Uro Piles</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: blue red green'><img class="common-manaCost-manaSymbol sprite-mana_symbols_u" aria-hidden="true" alt="blue" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_r" aria-hidden="true" alt="red" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_g" aria-hidden="true" alt="green" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Uro, Titan of Nature&#39;s Wrath</li>
+<li>Growth Spiral</li>
+<li>Remand</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+22
+</td>
+<td class='percentage col-freq'>
+5.95%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+728 tix
+</span>
+<span class='deck-price-paper'>
+$ 1,214
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='2831'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Stoneforge Mystic' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Stoneforge%2BMystic%2B%255B2XM%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/wu-68d6e340-6601-4aab-9a70-4bdccc013e7e'>
+<span class='sr-only'>Stoneforge Mystic</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/wu-68d6e340-6601-4aab-9a70-4bdccc013e7e#online">Azorius Control</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/wu-68d6e340-6601-4aab-9a70-4bdccc013e7e#paper">Azorius Control</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: white blue'><img class="common-manaCost-manaSymbol sprite-mana_symbols_w" aria-hidden="true" alt="white" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_u" aria-hidden="true" alt="blue" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Stoneforge Mystic</li>
+<li>Path to Exile</li>
+<li>Opt</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+19
+</td>
+<td class='percentage col-freq'>
+5.14%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+562 tix
+</span>
+<span class='deck-price-paper'>
+$ 1,082
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='461'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Lava Spike' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Lava%2BSpike%2B%255BUMA%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/burn-a2dd1132-5301-4882-907a-7b668da3b58a'>
+<span class='sr-only'>Lava Spike</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/burn-a2dd1132-5301-4882-907a-7b668da3b58a#online">Burn</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/burn-a2dd1132-5301-4882-907a-7b668da3b58a#paper">Burn</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: white red'><img class="common-manaCost-manaSymbol sprite-mana_symbols_w" aria-hidden="true" alt="white" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_r" aria-hidden="true" alt="red" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Lava Spike</li>
+<li>Goblin Guide</li>
+<li>Lightning Bolt</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+15
+</td>
+<td class='percentage col-freq'>
+4.05%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+234 tix
+</span>
+<span class='deck-price-paper'>
+$ 467
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='474'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Thought-Knot Seer' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Thought-Knot%2BSeer%2B%255BOGW%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/eldrazi-tron'>
+<span class='sr-only'>Thought-Knot Seer</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/eldrazi-tron#online">Eldrazi Tron</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/eldrazi-tron#paper">Eldrazi Tron</a>
+</span>
+</span>
+<div class='manacost-container'>
+
+</div>
+<ul>
+<li>Thought-Knot Seer</li>
+<li>Karn, the Great Creator</li>
+<li>Reality Smasher</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+14
+</td>
+<td class='percentage col-freq'>
+3.78%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+335 tix
+</span>
+<span class='deck-price-paper'>
+$ 613
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='463'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Seasoned Pyromancer' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Seasoned%2BPyromancer%2B%255BMH1%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/red-green-midrange'>
+<span class='sr-only'>Seasoned Pyromancer</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/red-green-midrange#online">Gruul Midrange</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/red-green-midrange#paper">Gruul Midrange</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: red green'><img class="common-manaCost-manaSymbol sprite-mana_symbols_r" aria-hidden="true" alt="red" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_g" aria-hidden="true" alt="green" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Seasoned Pyromancer</li>
+<li>Bloodbraid Elf</li>
+<li>Lightning Bolt</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+13
+</td>
+<td class='percentage col-freq'>
+3.51%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+382 tix
+</span>
+<span class='deck-price-paper'>
+$ 595
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='481'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Aether Vial' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Aether%2BVial%2B%255BIMA%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/goblins'>
+<span class='sr-only'>Aether Vial</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/goblins#online">Goblins</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/goblins#paper">Goblins</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: black red'><img class="common-manaCost-manaSymbol sprite-mana_symbols_b" aria-hidden="true" alt="black" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_r" aria-hidden="true" alt="red" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Aether Vial</li>
+<li>Conspicuous Snoop</li>
+<li>Goblin Matron</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+11
+</td>
+<td class='percentage col-freq'>
+2.97%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+283 tix
+</span>
+<span class='deck-price-paper'>
+$ 871
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='465'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Karn Liberated' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Karn%2BLiberated%2B%255B2XM%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/tron'>
+<span class='sr-only'>Karn Liberated</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/tron#online">Tron</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/tron#paper">Tron</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: green'><img class="common-manaCost-manaSymbol sprite-mana_symbols_g" aria-hidden="true" alt="green" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Karn Liberated</li>
+<li>Ancient Stirrings</li>
+<li>Chromatic Star</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+9
+</td>
+<td class='percentage col-freq'>
+2.43%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+209 tix
+</span>
+<span class='deck-price-paper'>
+$ 574
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='2880'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Lurrus of the Dream-Den' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Lurrus%2Bof%2Bthe%2BDream-Den%2B%255BIKO%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/modern-lurrus-aggro'>
+<span class='sr-only'>Lurrus of the Dream-Den</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/modern-lurrus-aggro#online">Lurrus Aggro</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/modern-lurrus-aggro#paper">Lurrus Aggro</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: black red'><img class="common-manaCost-manaSymbol sprite-mana_symbols_b" aria-hidden="true" alt="black" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_r" aria-hidden="true" alt="red" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Lurrus of the Dream-Den</li>
+<li>Mishra&#39;s Bauble</li>
+<li>Monastery Swiftspear</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+9
+</td>
+<td class='percentage col-freq'>
+2.43%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+324 tix
+</span>
+<span class='deck-price-paper'>
+$ 598
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='483'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Tarmogoyf' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Tarmogoyf%2B%255BUMA%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/jund'>
+<span class='sr-only'>Tarmogoyf</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/jund#online">Jund</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/jund#paper">Jund</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: black red green'><img class="common-manaCost-manaSymbol sprite-mana_symbols_b" aria-hidden="true" alt="black" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_r" aria-hidden="true" alt="red" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_g" aria-hidden="true" alt="green" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Tarmogoyf</li>
+<li>Mishra&#39;s Bauble</li>
+<li>Inquisition of Kozilek</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+8
+</td>
+<td class='percentage col-freq'>
+2.16%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+629 tix
+</span>
+<span class='deck-price-paper'>
+$ 1,617
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='476'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Devoted Druid' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Devoted%2BDruid%2B%255BUMA%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/devoted-devastation'>
+<span class='sr-only'>Devoted Druid</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/devoted-devastation#online">Devoted Devastation</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/devoted-devastation#paper">Devoted Devastation</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: white green'><img class="common-manaCost-manaSymbol sprite-mana_symbols_w" aria-hidden="true" alt="white" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_g" aria-hidden="true" alt="green" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Devoted Druid</li>
+<li>Giver of Runes</li>
+<li>Eladamri&#39;s Call</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+8
+</td>
+<td class='percentage col-freq'>
+2.16%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+319 tix
+</span>
+<span class='deck-price-paper'>
+$ 743
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='480'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Ad Nauseam' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Ad%2BNauseam%2B%255B2XM%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/ad-nauseam'>
+<span class='sr-only'>Ad Nauseam</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/ad-nauseam#online">Ad Nauseam</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/ad-nauseam#paper">Ad Nauseam</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: white blue black red'><img class="common-manaCost-manaSymbol sprite-mana_symbols_w" aria-hidden="true" alt="white" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_u" aria-hidden="true" alt="blue" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_b" aria-hidden="true" alt="black" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_r" aria-hidden="true" alt="red" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Ad Nauseam</li>
+<li>Serum Visions</li>
+<li>Simian Spirit Guide</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+8
+</td>
+<td class='percentage col-freq'>
+2.16%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+138 tix
+</span>
+<span class='deck-price-paper'>
+$ 619
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='509'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Master of the Pearl Trident' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Master%2Bof%2Bthe%2BPearl%2BTrident%2B%255BDDT%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/merfolk'>
+<span class='sr-only'>Master of the Pearl Trident</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/merfolk#online">Merfolk</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/merfolk#paper">Merfolk</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: blue'><img class="common-manaCost-manaSymbol sprite-mana_symbols_u" aria-hidden="true" alt="blue" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Master of the Pearl Trident</li>
+<li>Aether Vial</li>
+<li>Lord of Atlantis</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+8
+</td>
+<td class='percentage col-freq'>
+2.16%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+501 tix
+</span>
+<span class='deck-price-paper'>
+$ 696
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='466'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Cathartic Reunion' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Cathartic%2BReunion%2B%255BIKO%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/dredge'>
+<span class='sr-only'>Cathartic Reunion</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/dredge#online">Dredge</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/dredge#paper">Dredge</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: blue black red green'><img class="common-manaCost-manaSymbol sprite-mana_symbols_u" aria-hidden="true" alt="blue" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_b" aria-hidden="true" alt="black" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_r" aria-hidden="true" alt="red" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_g" aria-hidden="true" alt="green" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Cathartic Reunion</li>
+<li>Creeping Chill</li>
+<li>Shriekhorn</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+7
+</td>
+<td class='percentage col-freq'>
+1.89%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+170 tix
+</span>
+<span class='deck-price-paper'>
+$ 535
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='468'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Primeval Titan' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Primeval%2BTitan%2B%255BM12%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/amulet-titan'>
+<span class='sr-only'>Primeval Titan</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/amulet-titan#online">Amulet Titan</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/amulet-titan#paper">Amulet Titan</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: green'><img class="common-manaCost-manaSymbol sprite-mana_symbols_g" aria-hidden="true" alt="green" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Primeval Titan</li>
+<li>Summoner&#39;s Pact</li>
+<li>Amulet of Vigor</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+6
+</td>
+<td class='percentage col-freq'>
+1.62%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+251 tix
+</span>
+<span class='deck-price-paper'>
+$ 663
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='518'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Flamekin Harbinger' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Flamekin%2BHarbinger%2B%255BFMB1%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/five-colors-elementals'>
+<span class='sr-only'>Flamekin Harbinger</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/five-colors-elementals#online">Five-Colors Elementals</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/five-colors-elementals#paper">Five-Colors Elementals</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: white blue black red green'><img class="common-manaCost-manaSymbol sprite-mana_symbols_w" aria-hidden="true" alt="white" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_u" aria-hidden="true" alt="blue" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_b" aria-hidden="true" alt="black" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_r" aria-hidden="true" alt="red" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_g" aria-hidden="true" alt="green" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Flamekin Harbinger</li>
+<li>Lightning Skelemental</li>
+<li>Aether Vial</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+5
+</td>
+<td class='percentage col-freq'>
+1.35%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+266 tix
+</span>
+<span class='deck-price-paper'>
+$ 604
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='486'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Baral, Chief of Compliance' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Baral%252C%2BChief%2Bof%2BCompliance%2B%255BAER%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/gifts-storm'>
+<span class='sr-only'>Baral, Chief of Compliance</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/gifts-storm#online">Gifts Storm</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/gifts-storm#paper">Gifts Storm</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: blue red'><img class="common-manaCost-manaSymbol sprite-mana_symbols_u" aria-hidden="true" alt="blue" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_r" aria-hidden="true" alt="red" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Baral, Chief of Compliance</li>
+<li>Gifts Ungiven</li>
+<li>Serum Visions</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+5
+</td>
+<td class='percentage col-freq'>
+1.35%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+104 tix
+</span>
+<span class='deck-price-paper'>
+$ 302
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='3373'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Inquisition of Kozilek' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Inquisition%2Bof%2BKozilek%2B%255BMB1%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/modern-rakdos-midrange'>
+<span class='sr-only'>Inquisition of Kozilek</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/modern-rakdos-midrange#online">Rakdos Midrange</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/modern-rakdos-midrange#paper">Rakdos Midrange</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: black red'><img class="common-manaCost-manaSymbol sprite-mana_symbols_b" aria-hidden="true" alt="black" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_r" aria-hidden="true" alt="red" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Inquisition of Kozilek</li>
+<li>Seasoned Pyromancer</li>
+<li>Lightning Bolt</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+5
+</td>
+<td class='percentage col-freq'>
+1.35%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+409 tix
+</span>
+<span class='deck-price-paper'>
+$ 1,011
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='482'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Slippery Bogle' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Slippery%2BBogle%2B%255BEVE%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/bogles'>
+<span class='sr-only'>Slippery Bogle</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/bogles#online">Bogles</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/bogles#paper">Bogles</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: white green'><img class="common-manaCost-manaSymbol sprite-mana_symbols_w" aria-hidden="true" alt="white" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_g" aria-hidden="true" alt="green" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Slippery Bogle</li>
+<li>Daybreak Coronet</li>
+<li>Ethereal Armor</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+5
+</td>
+<td class='percentage col-freq'>
+1.35%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+163 tix
+</span>
+<span class='deck-price-paper'>
+$ 412
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='2818'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Scapeshift' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Scapeshift%2B%255BM19%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/urg-82caeeaa-8799-4d94-bce0-9f66fa25423a'>
+<span class='sr-only'>Scapeshift</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/urg-82caeeaa-8799-4d94-bce0-9f66fa25423a#online">Scapeshift</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/urg-82caeeaa-8799-4d94-bce0-9f66fa25423a#paper">Scapeshift</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: blue red green'><img class="common-manaCost-manaSymbol sprite-mana_symbols_u" aria-hidden="true" alt="blue" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_r" aria-hidden="true" alt="red" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_g" aria-hidden="true" alt="green" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Scapeshift</li>
+<li>Lightning Bolt</li>
+<li>Growth Spiral</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+5
+</td>
+<td class='percentage col-freq'>
+1.35%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+729 tix
+</span>
+<span class='deck-price-paper'>
+$ 1,430
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='488'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Hardened Scales' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Hardened%2BScales%2B%255BKTK%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/g'>
+<span class='sr-only'>Hardened Scales</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/g#online">Hardened Scales</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/g#paper">Hardened Scales</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: green'><img class="common-manaCost-manaSymbol sprite-mana_symbols_g" aria-hidden="true" alt="green" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Hardened Scales</li>
+<li>Walking Ballista</li>
+<li>Arcbound Ravager</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+5
+</td>
+<td class='percentage col-freq'>
+1.35%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+181 tix
+</span>
+<span class='deck-price-paper'>
+$ 545
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='496'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Glimpse the Unthinkable' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Glimpse%2Bthe%2BUnthinkable%2B%255BGK1%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/crabvine'>
+<span class='sr-only'>Glimpse the Unthinkable</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/crabvine#online">Crab Vine</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/crabvine#paper">Crab Vine</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: blue black green'><img class="common-manaCost-manaSymbol sprite-mana_symbols_u" aria-hidden="true" alt="blue" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_b" aria-hidden="true" alt="black" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_g" aria-hidden="true" alt="green" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Glimpse the Unthinkable</li>
+<li>Hedron Crab</li>
+<li>Merfolk Secretkeeper</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+5
+</td>
+<td class='percentage col-freq'>
+1.35%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+269 tix
+</span>
+<span class='deck-price-paper'>
+$ 836
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='471'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Glistener Elf' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Glistener%2BElf%2B%255BNPH%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/infect'>
+<span class='sr-only'>Glistener Elf</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/infect#online">Infect</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/infect#paper">Infect</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: blue green'><img class="common-manaCost-manaSymbol sprite-mana_symbols_u" aria-hidden="true" alt="blue" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_g" aria-hidden="true" alt="green" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Glistener Elf</li>
+<li>Blighted Agent</li>
+<li>Might of Old Krosa</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+5
+</td>
+<td class='percentage col-freq'>
+1.35%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+180 tix
+</span>
+<span class='deck-price-paper'>
+$ 598
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='479'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Ice-Fang Coatl' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Ice-Fang%2BCoatl%2B%255BMH1%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/modern-sultai-control'>
+<span class='sr-only'>Ice-Fang Coatl</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/modern-sultai-control#online">Sultai Control</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/modern-sultai-control#paper">Sultai Control</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: blue black green'><img class="common-manaCost-manaSymbol sprite-mana_symbols_u" aria-hidden="true" alt="blue" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_b" aria-hidden="true" alt="black" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_g" aria-hidden="true" alt="green" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Ice-Fang Coatl</li>
+<li>Thought Scour</li>
+<li>Fatal Push</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+5
+</td>
+<td class='percentage col-freq'>
+1.35%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+662 tix
+</span>
+<span class='deck-price-paper'>
+$ 1,268
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='512'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Lurrus of the Dream-Den' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Lurrus%2Bof%2Bthe%2BDream-Den%2B%255BIKO%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/jund-death-s-shadow'>
+<span class='sr-only'>Lurrus of the Dream-Den</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/jund-death-s-shadow#online">Jund Death&#39;s Shadow</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/jund-death-s-shadow#paper">Jund Death&#39;s Shadow</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: black red green'><img class="common-manaCost-manaSymbol sprite-mana_symbols_b" aria-hidden="true" alt="black" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_r" aria-hidden="true" alt="red" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_g" aria-hidden="true" alt="green" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Lurrus of the Dream-Den</li>
+<li>Monastery Swiftspear</li>
+<li>Thoughtseize</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+5
+</td>
+<td class='percentage col-freq'>
+1.35%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+461 tix
+</span>
+<span class='deck-price-paper'>
+$ 1,138
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='702'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Stoneforge Mystic' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Stoneforge%2BMystic%2B%255B2XM%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/orzhov-stoneblade'>
+<span class='sr-only'>Stoneforge Mystic</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/orzhov-stoneblade#online">Orzhov Stoneblade</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/orzhov-stoneblade#paper">Orzhov Stoneblade</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: white black'><img class="common-manaCost-manaSymbol sprite-mana_symbols_w" aria-hidden="true" alt="white" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_b" aria-hidden="true" alt="black" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Stoneforge Mystic</li>
+<li>Street Wraith</li>
+<li>Fatal Push</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+4
+</td>
+<td class='percentage col-freq'>
+1.08%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+189 tix
+</span>
+<span class='deck-price-paper'>
+$ 755
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='4327'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Fatal Push' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Fatal%2BPush%2B%255B2XM%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/modern-wbg'>
+<span class='sr-only'>Fatal Push</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/modern-wbg#online">WBG</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/modern-wbg#paper">WBG</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: white black green'><img class="common-manaCost-manaSymbol sprite-mana_symbols_w" aria-hidden="true" alt="white" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_b" aria-hidden="true" alt="black" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_g" aria-hidden="true" alt="green" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Fatal Push</li>
+<li>Inquisition of Kozilek</li>
+<li>Liliana of the Veil</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+4
+</td>
+<td class='percentage col-freq'>
+1.08%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+293 tix
+</span>
+<span class='deck-price-paper'>
+$ 1,030
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='517'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Thoughtseize' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Thoughtseize%2B%255B2XM%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/grixis-death-s-shadow'>
+<span class='sr-only'>Thoughtseize</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/grixis-death-s-shadow#online">Grixis Death&#39;s Shadow</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/grixis-death-s-shadow#paper">Grixis Death&#39;s Shadow</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: blue black'><img class="common-manaCost-manaSymbol sprite-mana_symbols_u" aria-hidden="true" alt="blue" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_b" aria-hidden="true" alt="black" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Thoughtseize</li>
+<li>Street Wraith</li>
+<li>Death&#39;s Shadow</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+4
+</td>
+<td class='percentage col-freq'>
+1.08%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+413 tix
+</span>
+<span class='deck-price-paper'>
+$ 1,109
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='462'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Yorion, Sky Nomad' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Yorion%252C%2BSky%2BNomad%2B%255BIKO%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/niv-to-light-83149596-72ba-4d65-ba7d-1ed648eb583f'>
+<span class='sr-only'>Yorion, Sky Nomad</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/niv-to-light-83149596-72ba-4d65-ba7d-1ed648eb583f#online">Niv to Light</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/niv-to-light-83149596-72ba-4d65-ba7d-1ed648eb583f#paper">Niv to Light</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: white blue black red green'><img class="common-manaCost-manaSymbol sprite-mana_symbols_w" aria-hidden="true" alt="white" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_u" aria-hidden="true" alt="blue" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_b" aria-hidden="true" alt="black" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_r" aria-hidden="true" alt="red" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_g" aria-hidden="true" alt="green" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Yorion, Sky Nomad</li>
+<li>Lightning Helix</li>
+<li>Wrenn and Six</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+4
+</td>
+<td class='percentage col-freq'>
+1.08%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+742 tix
+</span>
+<span class='deck-price-paper'>
+$ 1,155
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='464'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Champion of the Parish' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Champion%2Bof%2Bthe%2BParish%2B%255BMB1%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/humans-f09079c9-02d4-48b2-9774-994fc95bc2c9'>
+<span class='sr-only'>Champion of the Parish</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/humans-f09079c9-02d4-48b2-9774-994fc95bc2c9#online">Humans</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/humans-f09079c9-02d4-48b2-9774-994fc95bc2c9#paper">Humans</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: white blue black red green'><img class="common-manaCost-manaSymbol sprite-mana_symbols_w" aria-hidden="true" alt="white" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_u" aria-hidden="true" alt="blue" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_b" aria-hidden="true" alt="black" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_r" aria-hidden="true" alt="red" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_g" aria-hidden="true" alt="green" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Champion of the Parish</li>
+<li>Mantis Rider</li>
+<li>Meddling Mage</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+4
+</td>
+<td class='percentage col-freq'>
+1.08%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+325 tix
+</span>
+<span class='deck-price-paper'>
+$ 773
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='3139'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Lightning Bolt' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Lightning%2BBolt%2B%255BMB1%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/modern-izzet-control'>
+<span class='sr-only'>Lightning Bolt</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/modern-izzet-control#online">Izzet Control</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/modern-izzet-control#paper">Izzet Control</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: blue red'><img class="common-manaCost-manaSymbol sprite-mana_symbols_u" aria-hidden="true" alt="blue" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_r" aria-hidden="true" alt="red" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Lightning Bolt</li>
+<li>Snapcaster Mage</li>
+<li>Opt</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+4
+</td>
+<td class='percentage col-freq'>
+1.08%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+401 tix
+</span>
+<span class='deck-price-paper'>
+$ 923
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='3296'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Bonecrusher Giant' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Bonecrusher%2BGiant%2B%255BELD%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/modern-mono-red-aggro'>
+<span class='sr-only'>Bonecrusher Giant</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/modern-mono-red-aggro#online">Mono-Red Aggro</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/modern-mono-red-aggro#paper">Mono-Red Aggro</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: red'><img class="common-manaCost-manaSymbol sprite-mana_symbols_r" aria-hidden="true" alt="red" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Bonecrusher Giant</li>
+<li>Firebolt</li>
+<li>Lava Dart</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+4
+</td>
+<td class='percentage col-freq'>
+1.08%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+116 tix
+</span>
+<span class='deck-price-paper'>
+$ 145
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='505'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Thirst for Knowledge' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Thirst%2Bfor%2BKnowledge%2B%255B2XM%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/mono-blue-tron'>
+<span class='sr-only'>Thirst for Knowledge</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/mono-blue-tron#online">Mono-Blue Tron</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/mono-blue-tron#paper">Mono-Blue Tron</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: blue'><img class="common-manaCost-manaSymbol sprite-mana_symbols_u" aria-hidden="true" alt="blue" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Thirst for Knowledge</li>
+<li>Expedition Map</li>
+<li>Condescend</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+4
+</td>
+<td class='percentage col-freq'>
+1.08%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+174 tix
+</span>
+<span class='deck-price-paper'>
+$ 481
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='475'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Aether Vial' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Aether%2BVial%2B%255BIMA%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/eldrazi-taxes'>
+<span class='sr-only'>Aether Vial</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/eldrazi-taxes#online">Eldrazi &amp; Taxes</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/eldrazi-taxes#paper">Eldrazi &amp; Taxes</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: white'><img class="common-manaCost-manaSymbol sprite-mana_symbols_w" aria-hidden="true" alt="white" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Aether Vial</li>
+<li>Leonin Arbiter</li>
+<li>Path to Exile</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+4
+</td>
+<td class='percentage col-freq'>
+1.08%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+177 tix
+</span>
+<span class='deck-price-paper'>
+$ 447
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='4329'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Stoneforge Mystic' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Stoneforge%2BMystic%2B%255B2XM%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/modern-w-31f99dca-c7b1-40ad-9432-b81b07da18cc'>
+<span class='sr-only'>Stoneforge Mystic</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/modern-w-31f99dca-c7b1-40ad-9432-b81b07da18cc#online">W</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/modern-w-31f99dca-c7b1-40ad-9432-b81b07da18cc#paper">W</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: white'><img class="common-manaCost-manaSymbol sprite-mana_symbols_w" aria-hidden="true" alt="white" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Stoneforge Mystic</li>
+<li>Memnite</li>
+<li>Ornithopter</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+3
+</td>
+<td class='percentage col-freq'>
+0.81%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+80 tix
+</span>
+<span class='deck-price-paper'>
+$ 475
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='492'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Crashing Footfalls' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Crashing%2BFootfalls%2B%255BMH1%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/electrobalance'>
+<span class='sr-only'>Crashing Footfalls</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/electrobalance#online">Electrobalance</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/electrobalance#paper">Electrobalance</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: blue red'><img class="common-manaCost-manaSymbol sprite-mana_symbols_u" aria-hidden="true" alt="blue" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_r" aria-hidden="true" alt="red" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Crashing Footfalls</li>
+<li>Restore Balance</li>
+<li>As Foretold</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+3
+</td>
+<td class='percentage col-freq'>
+0.81%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+324 tix
+</span>
+<span class='deck-price-paper'>
+$ 643
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='4278'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Heliod, Sun-Crowned' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Heliod%252C%2BSun-Crowned%2B%255BTHB%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/modern-wg-303bf8ce-bd6a-4ac0-a690-3d8747c45dc4'>
+<span class='sr-only'>Heliod, Sun-Crowned</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/modern-wg-303bf8ce-bd6a-4ac0-a690-3d8747c45dc4#online">WG</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/modern-wg-303bf8ce-bd6a-4ac0-a690-3d8747c45dc4#paper">WG</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: white green'><img class="common-manaCost-manaSymbol sprite-mana_symbols_w" aria-hidden="true" alt="white" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_g" aria-hidden="true" alt="green" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Heliod, Sun-Crowned</li>
+<li>Spike Feeder</li>
+<li>Collected Company</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+3
+</td>
+<td class='percentage col-freq'>
+0.81%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+195 tix
+</span>
+<span class='deck-price-paper'>
+$ 589
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='484'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Urza, Lord High Artificer' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Urza%252C%2BLord%2BHigh%2BArtificer%2B%255BMH1%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/modern-whirza'>
+<span class='sr-only'>Urza, Lord High Artificer</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/modern-whirza#online">Whirza</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/modern-whirza#paper">Whirza</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: blue red'><img class="common-manaCost-manaSymbol sprite-mana_symbols_u" aria-hidden="true" alt="blue" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_r" aria-hidden="true" alt="red" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Urza, Lord High Artificer</li>
+<li>Witching Well</li>
+<li>Thopter Foundry</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+3
+</td>
+<td class='percentage col-freq'>
+0.81%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+391 tix
+</span>
+<span class='deck-price-paper'>
+$ 838
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='4232'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Path to Exile' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Path%2Bto%2BExile%2B%255B2XM%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/modern-wug-22fa2cfd-2834-46b2-a5fb-e4a1edbf6636'>
+<span class='sr-only'>Path to Exile</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/modern-wug-22fa2cfd-2834-46b2-a5fb-e4a1edbf6636#online">WUG</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/modern-wug-22fa2cfd-2834-46b2-a5fb-e4a1edbf6636#paper">WUG</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: white blue green'><img class="common-manaCost-manaSymbol sprite-mana_symbols_w" aria-hidden="true" alt="white" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_u" aria-hidden="true" alt="blue" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_g" aria-hidden="true" alt="green" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Path to Exile</li>
+<li>Teferi, Time Raveler</li>
+<li>Birds of Paradise</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+3
+</td>
+<td class='percentage col-freq'>
+0.81%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+636 tix
+</span>
+<span class='deck-price-paper'>
+$ 1,127
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='494'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Death&#39;s Shadow' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Death%2527s%2BShadow%2B%255B2XM%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/four-color-death-s-shadow'>
+<span class='sr-only'>Death&#39;s Shadow</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/four-color-death-s-shadow#online">Four-Color Death&#39;s Shadow</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/four-color-death-s-shadow#paper">Four-Color Death&#39;s Shadow</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: blue black red green'><img class="common-manaCost-manaSymbol sprite-mana_symbols_u" aria-hidden="true" alt="blue" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_b" aria-hidden="true" alt="black" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_r" aria-hidden="true" alt="red" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_g" aria-hidden="true" alt="green" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Death&#39;s Shadow</li>
+<li>Mishra&#39;s Bauble</li>
+<li>Thoughtseize</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+3
+</td>
+<td class='percentage col-freq'>
+0.81%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+445 tix
+</span>
+<span class='deck-price-paper'>
+$ 1,112
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='4050'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Path to Exile' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Path%2Bto%2BExile%2B%255B2XM%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/modern-w-8bbbd937-7c75-4c0a-a53d-4ea25eb9ff13'>
+<span class='sr-only'>Path to Exile</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/modern-w-8bbbd937-7c75-4c0a-a53d-4ea25eb9ff13#online">W</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/modern-w-8bbbd937-7c75-4c0a-a53d-4ea25eb9ff13#paper">W</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: white'><img class="common-manaCost-manaSymbol sprite-mana_symbols_w" aria-hidden="true" alt="white" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Path to Exile</li>
+<li>Legion&#39;s Landing</li>
+<li>Raise the Alarm</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+2
+</td>
+<td class='percentage col-freq'>
+0.54%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+91 tix
+</span>
+<span class='deck-price-paper'>
+$ 147
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='4259'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Desperate Ritual' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Desperate%2BRitual%2B%255BCHK%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/modern-r-740f9ab6-06c3-4c9f-9c51-5d5c23fa62a5'>
+<span class='sr-only'>Desperate Ritual</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/modern-r-740f9ab6-06c3-4c9f-9c51-5d5c23fa62a5#online">R</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/modern-r-740f9ab6-06c3-4c9f-9c51-5d5c23fa62a5#paper">R</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: red'><img class="common-manaCost-manaSymbol sprite-mana_symbols_r" aria-hidden="true" alt="red" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Desperate Ritual</li>
+<li>Chalice of the Void</li>
+<li>Blood Moon</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+2
+</td>
+<td class='percentage col-freq'>
+0.54%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+471 tix
+</span>
+<span class='deck-price-paper'>
+$ 732
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='4266'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Stoneforge Mystic' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Stoneforge%2BMystic%2B%255B2XM%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/modern-wrg-2b880f9f-1111-48d2-bbba-b235fcdb3fdc'>
+<span class='sr-only'>Stoneforge Mystic</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/modern-wrg-2b880f9f-1111-48d2-bbba-b235fcdb3fdc#online">WRG</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/modern-wrg-2b880f9f-1111-48d2-bbba-b235fcdb3fdc#paper">WRG</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: white red green'><img class="common-manaCost-manaSymbol sprite-mana_symbols_w" aria-hidden="true" alt="white" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_r" aria-hidden="true" alt="red" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_g" aria-hidden="true" alt="green" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Stoneforge Mystic</li>
+<li>Bloodbraid Elf</li>
+<li>Path to Exile</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+2
+</td>
+<td class='percentage col-freq'>
+0.54%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+509 tix
+</span>
+<span class='deck-price-paper'>
+$ 1,060
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='3291'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Yorion, Sky Nomad' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Yorion%252C%2BSky%2BNomad%2B%255BIKO%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/modern-wrg-712e1430-1164-4166-a51a-54748cde7ad4'>
+<span class='sr-only'>Yorion, Sky Nomad</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/modern-wrg-712e1430-1164-4166-a51a-54748cde7ad4#online">WRG</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/modern-wrg-712e1430-1164-4166-a51a-54748cde7ad4#paper">WRG</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: white red green'><img class="common-manaCost-manaSymbol sprite-mana_symbols_w" aria-hidden="true" alt="white" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_r" aria-hidden="true" alt="red" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_g" aria-hidden="true" alt="green" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Yorion, Sky Nomad</li>
+<li>Path to Exile</li>
+<li>Voice of Resurgence</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+2
+</td>
+<td class='percentage col-freq'>
+0.54%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+375 tix
+</span>
+<span class='deck-price-paper'>
+$ 1,105
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='469'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Griselbrand' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Griselbrand%2B%255BMM3%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/neobrand'>
+<span class='sr-only'>Griselbrand</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/neobrand#online">Neobrand</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/neobrand#paper">Neobrand</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: blue red green'><img class="common-manaCost-manaSymbol sprite-mana_symbols_u" aria-hidden="true" alt="blue" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_r" aria-hidden="true" alt="red" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_g" aria-hidden="true" alt="green" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Griselbrand</li>
+<li>Manamorphose</li>
+<li>Summoner&#39;s Pact</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+2
+</td>
+<td class='percentage col-freq'>
+0.54%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+162 tix
+</span>
+<span class='deck-price-paper'>
+$ 426
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='4294'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Primeval Titan' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Primeval%2BTitan%2B%255BM12%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/modern-rg-d1aa1314-2d18-48e3-9745-6fc3064b0d62'>
+<span class='sr-only'>Primeval Titan</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/modern-rg-d1aa1314-2d18-48e3-9745-6fc3064b0d62#online">RG</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/modern-rg-d1aa1314-2d18-48e3-9745-6fc3064b0d62#paper">RG</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: red green'><img class="common-manaCost-manaSymbol sprite-mana_symbols_r" aria-hidden="true" alt="red" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_g" aria-hidden="true" alt="green" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Primeval Titan</li>
+<li>Sakura-Tribe Elder</li>
+<li>Search for Tomorrow</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+2
+</td>
+<td class='percentage col-freq'>
+0.54%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+369 tix
+</span>
+<span class='deck-price-paper'>
+$ 917
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='4301'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Fatal Push' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Fatal%2BPush%2B%255B2XM%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/modern-ub-31b1462d-e744-4160-868b-0abac71c1119'>
+<span class='sr-only'>Fatal Push</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/modern-ub-31b1462d-e744-4160-868b-0abac71c1119#online">UB</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/modern-ub-31b1462d-e744-4160-868b-0abac71c1119#paper">UB</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: blue black'><img class="common-manaCost-manaSymbol sprite-mana_symbols_u" aria-hidden="true" alt="blue" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_b" aria-hidden="true" alt="black" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Fatal Push</li>
+<li>Inquisition of Kozilek</li>
+<li>Thoughtseize</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+2
+</td>
+<td class='percentage col-freq'>
+0.54%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+397 tix
+</span>
+<span class='deck-price-paper'>
+$ 919
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='511'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Elvish Archdruid' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Elvish%2BArchdruid%2B%255BJMP%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/bg-29b4c665-936e-4ead-978b-bbedee77c8e6'>
+<span class='sr-only'>Elvish Archdruid</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/bg-29b4c665-936e-4ead-978b-bbedee77c8e6#online">Elves</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/bg-29b4c665-936e-4ead-978b-bbedee77c8e6#paper">Elves</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: black green'><img class="common-manaCost-manaSymbol sprite-mana_symbols_b" aria-hidden="true" alt="black" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_g" aria-hidden="true" alt="green" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Elvish Archdruid</li>
+<li>Dwynen&#39;s Elite</li>
+<li>Elvish Clancaller</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+2
+</td>
+<td class='percentage col-freq'>
+0.54%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+155 tix
+</span>
+<span class='deck-price-paper'>
+$ 418
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='3815'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Aether Vial' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Aether%2BVial%2B%255BIMA%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/modern-wr-f62c69ff-84dc-48f5-9c58-51b48389fd85'>
+<span class='sr-only'>Aether Vial</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/modern-wr-f62c69ff-84dc-48f5-9c58-51b48389fd85#online">WR</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/modern-wr-f62c69ff-84dc-48f5-9c58-51b48389fd85#paper">WR</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: white'><img class="common-manaCost-manaSymbol sprite-mana_symbols_w" aria-hidden="true" alt="white" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Aether Vial</li>
+<li>Leonin Arbiter</li>
+<li>Thalia, Guardian of Thraben</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+2
+</td>
+<td class='percentage col-freq'>
+0.54%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+199 tix
+</span>
+<span class='deck-price-paper'>
+$ 555
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='4006'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Birds of Paradise' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Birds%2Bof%2BParadise%2B%255BMB1%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/modern-bg-bb74472b-2486-464c-a727-97d75a4cff26'>
+<span class='sr-only'>Birds of Paradise</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/modern-bg-bb74472b-2486-464c-a727-97d75a4cff26#online">BG</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/modern-bg-bb74472b-2486-464c-a727-97d75a4cff26#paper">BG</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: black green'><img class="common-manaCost-manaSymbol sprite-mana_symbols_b" aria-hidden="true" alt="black" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_g" aria-hidden="true" alt="green" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Birds of Paradise</li>
+<li>Chord of Calling</li>
+<li>Eldritch Evolution</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+2
+</td>
+<td class='percentage col-freq'>
+0.54%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+189 tix
+</span>
+<span class='deck-price-paper'>
+$ 709
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='4330'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Yorion, Sky Nomad' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Yorion%252C%2BSky%2BNomad%2B%255BIKO%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/modern-wur-9a1c2882-6c9f-44e5-a689-885f251633d7'>
+<span class='sr-only'>Yorion, Sky Nomad</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/modern-wur-9a1c2882-6c9f-44e5-a689-885f251633d7#online">WUR</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/modern-wur-9a1c2882-6c9f-44e5-a689-885f251633d7#paper">WUR</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: white blue red'><img class="common-manaCost-manaSymbol sprite-mana_symbols_w" aria-hidden="true" alt="white" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_u" aria-hidden="true" alt="blue" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_r" aria-hidden="true" alt="red" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Yorion, Sky Nomad</li>
+<li>Path to Exile</li>
+<li>Lightning Bolt</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+2
+</td>
+<td class='percentage col-freq'>
+0.54%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+573 tix
+</span>
+<span class='deck-price-paper'>
+$ 1,177
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='4279'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Aether Vial' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Aether%2BVial%2B%255BIMA%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/modern-wu-69919115-1816-404a-a7f2-599901c0bf24'>
+<span class='sr-only'>Aether Vial</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/modern-wu-69919115-1816-404a-a7f2-599901c0bf24#online">WU</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/modern-wu-69919115-1816-404a-a7f2-599901c0bf24#paper">WU</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: white blue'><img class="common-manaCost-manaSymbol sprite-mana_symbols_w" aria-hidden="true" alt="white" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_u" aria-hidden="true" alt="blue" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Aether Vial</li>
+<li>Leonin Arbiter</li>
+<li>Path to Exile</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+2
+</td>
+<td class='percentage col-freq'>
+0.54%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+206 tix
+</span>
+<span class='deck-price-paper'>
+$ 432
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='4300'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Fatal Push' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Fatal%2BPush%2B%255B2XM%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/modern-ub-3d6bc016-926c-416f-890f-976da7948f84'>
+<span class='sr-only'>Fatal Push</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/modern-ub-3d6bc016-926c-416f-890f-976da7948f84#online">UB</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/modern-ub-3d6bc016-926c-416f-890f-976da7948f84#paper">UB</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: blue black'><img class="common-manaCost-manaSymbol sprite-mana_symbols_u" aria-hidden="true" alt="blue" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_b" aria-hidden="true" alt="black" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Fatal Push</li>
+<li>Snapcaster Mage</li>
+<li>Opt</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+2
+</td>
+<td class='percentage col-freq'>
+0.54%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+448 tix
+</span>
+<span class='deck-price-paper'>
+$ 951
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='4173'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Lurrus of the Dream-Den' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Lurrus%2Bof%2Bthe%2BDream-Den%2B%255BIKO%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/modern-br-07e70a4e-ddbd-45c3-8a89-f974ed21e60f'>
+<span class='sr-only'>Lurrus of the Dream-Den</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/modern-br-07e70a4e-ddbd-45c3-8a89-f974ed21e60f#online">BR</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/modern-br-07e70a4e-ddbd-45c3-8a89-f974ed21e60f#paper">BR</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: black red'><img class="common-manaCost-manaSymbol sprite-mana_symbols_b" aria-hidden="true" alt="black" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_r" aria-hidden="true" alt="red" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Lurrus of the Dream-Den</li>
+<li>Mishra&#39;s Bauble</li>
+<li>Inquisition of Kozilek</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+1
+</td>
+<td class='percentage col-freq'>
+0.27%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+279 tix
+</span>
+<span class='deck-price-paper'>
+$ 703
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='3128'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Inverter of Truth' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Inverter%2Bof%2BTruth%2B%255BOGW%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/modern-inverter'>
+<span class='sr-only'>Inverter of Truth</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/modern-inverter#online">Inverter</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/modern-inverter#paper">Inverter</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: blue black'><img class="common-manaCost-manaSymbol sprite-mana_symbols_u" aria-hidden="true" alt="blue" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_b" aria-hidden="true" alt="black" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Inverter of Truth</li>
+<li>Thassa&#39;s Oracle</li>
+<li>Opt</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+1
+</td>
+<td class='percentage col-freq'>
+0.27%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+147 tix
+</span>
+<span class='deck-price-paper'>
+$ 459
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='495'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Hedron Crab' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Hedron%2BCrab%2B%255BMB1%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/modern-mill'>
+<span class='sr-only'>Hedron Crab</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/modern-mill#online">Mill</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/modern-mill#paper">Mill</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: blue black green'><img class="common-manaCost-manaSymbol sprite-mana_symbols_u" aria-hidden="true" alt="blue" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_b" aria-hidden="true" alt="black" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_g" aria-hidden="true" alt="green" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Hedron Crab</li>
+<li>Archive Trap</li>
+<li>Mesmeric Orb</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+1
+</td>
+<td class='percentage col-freq'>
+0.27%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+258 tix
+</span>
+<span class='deck-price-paper'>
+$ 718
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='504'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Delver of Secrets' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Delver%2Bof%2BSecrets%2B%255BISD%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/modern-delver-of-secrets'>
+<span class='sr-only'>Delver of Secrets</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/modern-delver-of-secrets#online">Delver of Secrets</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/modern-delver-of-secrets#paper">Delver of Secrets</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: white blue red'><img class="common-manaCost-manaSymbol sprite-mana_symbols_w" aria-hidden="true" alt="white" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_u" aria-hidden="true" alt="blue" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_r" aria-hidden="true" alt="red" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Delver of Secrets</li>
+<li>Lightning Bolt</li>
+<li>Serum Visions</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+1
+</td>
+<td class='percentage col-freq'>
+0.27%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+493 tix
+</span>
+<span class='deck-price-paper'>
+$ 909
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='507'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Tarmogoyf' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Tarmogoyf%2B%255BUMA%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/the-rock'>
+<span class='sr-only'>Tarmogoyf</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/the-rock#online">The Rock</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/the-rock#paper">The Rock</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: black green'><img class="common-manaCost-manaSymbol sprite-mana_symbols_b" aria-hidden="true" alt="black" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_g" aria-hidden="true" alt="green" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Tarmogoyf</li>
+<li>Liliana of the Veil</li>
+<li>Inquisition of Kozilek</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+1
+</td>
+<td class='percentage col-freq'>
+0.27%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+482 tix
+</span>
+<span class='deck-price-paper'>
+$ 1,457
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='3748'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Coretapper' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Coretapper%2B%255B2XM%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/modern-dice-factory'>
+<span class='sr-only'>Coretapper</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/modern-dice-factory#online">Dice Factory</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/modern-dice-factory#paper">Dice Factory</a>
+</span>
+</span>
+<div class='manacost-container'>
+
+</div>
+<ul>
+<li>Coretapper</li>
+<li>Expedition Map</li>
+<li>Karn, the Great Creator</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+1
+</td>
+<td class='percentage col-freq'>
+0.27%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+208 tix
+</span>
+<span class='deck-price-paper'>
+$ 265
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='archetype-tile' id='4053'>
+<div class='archetype-tile-image'>
+<div aria-label='Image of Aether Vial' class='card-tile' role='img'>
+<div class='card-image-tile' style='background-image: url(&#39;https://cdn1.mtggoldfish.com/images/gf/Aether%2BVial%2B%255BIMA%255D.jpg&#39;);'></div>
+<a class='card-image-tile-link-overlay' href='/archetype/modern-wubrg-4e17ef42-bcd7-483b-a0dd-f8d9a40c13a1'>
+<span class='sr-only'>Aether Vial</span>
+</a>
+</div>
+
+</div>
+<div class='archetype-tile-description-wrapper'>
+<div class='archetype-tile-description'>
+<span class='title'>
+<span class='deck-price-online'>
+<a href="/archetype/modern-wubrg-4e17ef42-bcd7-483b-a0dd-f8d9a40c13a1#online">WUBRG</a>
+</span>
+<span class='deck-price-paper'>
+<a href="/archetype/modern-wubrg-4e17ef42-bcd7-483b-a0dd-f8d9a40c13a1#paper">WUBRG</a>
+</span>
+</span>
+<div class='manacost-container'>
+<span class='manacost' role='img' aria-label='colors: white blue black red green'><img class="common-manaCost-manaSymbol sprite-mana_symbols_w" aria-hidden="true" alt="white" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_u" aria-hidden="true" alt="blue" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_b" aria-hidden="true" alt="black" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_r" aria-hidden="true" alt="red" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /><img class="common-manaCost-manaSymbol sprite-mana_symbols_g" aria-hidden="true" alt="green" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></span>
+</div>
+<ul>
+<li>Aether Vial</li>
+<li>Predatory Sliver</li>
+<li>Sinew Sliver</li>
+</ul>
+</div>
+</div>
+<div class='clearfix visible-xs-block'></div>
+<div class='archetype-tile-statistics'>
+<table class='table table-condensed stats'>
+<tr>
+<th>
+Decks
+</th>
+<th>
+Meta %
+</th>
+<th class='text-right'>Price</th>
+</tr>
+<tr>
+<td>
+1
+</td>
+<td class='percentage col-freq'>
+0.27%
+</td>
+<td class='text-right'>
+<span class='deck-price-online'>
+309 tix
+</span>
+<span class='deck-price-paper'>
+$ 867
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+</div>
+<div role="navigation" aria-label="Pagination" class="pagination"><span class="previous_page disabled">&#8592; Previous</span> <em class="current" aria-label="Page 1" aria-current="page">1</em> <a rel="next" aria-label="Page 2" href="/metagame/modern/full?page=2">2</a> <a class="next_page" rel="next" href="/metagame/modern/full?page=2">Next &#8594;</a></div>
+</div>
+<script src="https://assets1.mtggoldfish.com/assets/metagame_index-8210a820f19523d9d44dc65fc74aa89de202ad738f4d09d6d7e007b44ca918c5.js"></script>
+
+<div aria-labelledby='Login Dialog' class='modal fade' id='login-modal' role='dialog' tabindex='-1'>
+<div class='modal-dialog'>
+<div class='modal-content'>
+<div class='modal-header'>
+<button aria-label='Close Login Popup' class='close' data-dismiss='modal' type='button'>
+<span aria-hidden='true'>×</span>
+<span class='sr-only'>Close Login Popup</span>
+</button>
+<h1 class='modal-title'>Sign in Using an Existing Account</h1>
+</div>
+<div class='modal-body clearfix'>
+<div class='container-fluid existing-account'>
+<div class='row'>
+<div class='col-md-6'>
+<form action="/auth/facebook" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+<input type="hidden" name="override_origin" value="" class="login-override_origin" />
+<button class='layout-login-btn'>
+<img alt="Sign in with Facebook" class="sprite-login-facebook" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" />
+</button>
+<fieldset>
+<legend class='sr-only'>Remember Facebook Login</legend>
+<div class='checkbox'>
+<label class='text-muted' for='layout-modal-facebook-remember-me'>
+<input type="checkbox" name="remember_me" id="layout-modal-facebook-remember-me" value="remember_me" aria-label="Remember Facebook Login" />
+Remember me
+</label>
+</div>
+</fieldset>
+</form>
+
+</div>
+<div class='col-md-6'>
+<form action="/auth/twitter" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+<input type="hidden" name="override_origin" value="" class="login-override_origin" />
+<button class='layout-login-btn'>
+<img alt="Sign in with Twitter" class="sprite-login-twitter" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" />
+</button>
+<fieldset>
+<legend class='sr-only'>Remember Twitter Login</legend>
+<div class='checkbox'>
+<label class='text-muted' for='layout-modal-twitter-remember-me'>
+<input type="checkbox" name="remember_me" id="layout-modal-twitter-remember-me" value="remember_me" aria-label="Remember Twitter Login" />
+Remember me
+</label>
+</div>
+</fieldset>
+</form>
+
+</div>
+<div class='col-md-6' style='margin-top: 10px;'>
+<form action="/auth/twitch" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+<input type="hidden" name="override_origin" value="" class="login-override_origin" />
+<button style='background: #6441A4; height: 30px; width: 180px; color: #fff; font-weight: bold; font-size: 85%;  border: 1px solid #333; border-radius: 2px;'>
+<img style="height: 20px;" alt="Sign in with Twitch.tv" src="https://assets1.mtggoldfish.com/assets/GlitchIcon_White_48px-7a6baa70153445a5f4daa69da478ddc249a54a5a3f0a1f70e0ac52ba102efea7.png" />
+&nbsp;Sign-in with Twitch.tv
+</button>
+<fieldset>
+<legend class='sr-only'>Remember Twitch.tv Login</legend>
+<div class='checkbox'>
+<label class='text-muted' for='layout-modal-twitch-remember-me'>
+<input type="checkbox" name="remember_me" id="layout-modal-twitch-remember-me" value="remember_me" aria-label="Remember Twitch.tv Login" />
+Remember me
+</label>
+</div>
+</fieldset>
+</form>
+
+</div>
+</div>
+</div>
+<hr>
+<h1>Sign in Using an MTGGoldfish Email Account</h1>
+<form class="form layout-auth-identity-form" action="/auth/identity/callback" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="FdrHHXSMLV1yT5v1B38PGAhYFgWD03XL1C2ZcNQ9p9EsHalylfmcSRxqZWxIjPDHupYZy6Km2rdbeeaeogHbLA==" />
+<input type="hidden" name="override_origin" value="" class="login-override_origin" />
+<div class='form-group'>
+<label for='layout-modal-email-email'>Email Address</label>
+<input type="text" name="auth_key" id="layout-modal-email-email" value="" class="form-control layout-auth-identity-form-email" />
+</div>
+<div class='form-group'>
+<label for='layout-modal-email-password'>Password</label>
+<input type="password" name="password" id="layout-modal-email-password" value="" class="form-control" />
+<div class='clearfix'>
+<fieldset>
+<legend class='sr-only'>Remember Email Login</legend>
+<div class='checkbox pull-left'>
+<label class='text-muted' for='layout-modal-email-remember-me'>
+<input type="checkbox" name="remember_me" id="layout-modal-email-remember-me" value="remember_me" aria-label="Remember Email Login" />
+Remember me
+</label>
+</div>
+</fieldset>
+<p class='help-block pull-right' style='margin-top: 10px;'>Forgot your password? <a href="/password/reset/new">Reset it here</a>.</p>
+</div>
+<input type="submit" name="commit" value="Log In" class="btn btn-primary" data-disable-with="Log In" />
+</div>
+</form>
+
+<p></p>
+<form id="layout-modal-layout-login-signup-form" action="/identity/new" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+<input type="hidden" name="override_origin" value="" class="login-override_origin" />
+<p>Don't have an account? <a id="layout-modal-layout-login-signup-btn" href="/identity/new">Sign Up for free!</a></p>
+</form>
+
+
+</div>
+</div>
+</div>
+</div>
+
+<div aria-labelledby='Privacy Act Popup' class='modal fade' id='privacy-modal' role='dialog' tabindex='-1'>
+<div class='modal-dialog'>
+<div class='modal-content'>
+<div class='modal-header'>
+<button aria-label='Close Privacy Act Popup' class='close' data-dismiss='modal' type='button'>
+<span aria-hidden='true'>×</span>
+<span class='sr-only'>Close Privacy Popup</span>
+</button>
+<h1 class='modal-title'>California Consumer Privacy Act (CCPA)</h1>
+</div>
+<div class='modal-body clearfix'>
+<h3 style='margin-top: 0px;'>
+Exercising Your Rights
+</h3>
+<p>If you are a resident of California, you have the right under the CCPA to opt out of the sale of personal information to third parties. Use the options below to exercise this right, and please review our privacy policy for complete information on how your data is used and stored.</p>
+<hr>
+<label for='do_not_sell_my_information_no'>
+<input type="radio" name="do_not_sell_my_information" id="do_not_sell_my_information_no" value="no" />
+<span style='font-weight: normal'>
+My personal information may be used for the purposes defined in the privacy policy.
+</span>
+</label>
+<label for='do_not_sell_my_information_yes'>
+<input type="radio" name="do_not_sell_my_information" id="do_not_sell_my_information_yes" value="yes" />
+<span style='font-weight: normal'>
+Do not sell my personal information.
+</span>
+</label>
+<p id='privacy_modal_message'></p>
+</div>
+</div>
+</div>
+</div>
+
+<div aria-hidden='true' aria-labelledby='Important Updates' class='modal fade' id='conditions-modal' role='dialog' tabindex='-1'>
+<div class='modal-dialog'>
+<div class='modal-content'>
+<div class='modal-header'>
+<h4 class='modal-title'>Important Updates</h4>
+</div>
+<div class='modal-body clearfix'>
+<p>At MTGGoldfish, we value your privacy. As such, we're letting you know that we've updated our Privacy Policy to reflect the new rule set forth by the European Union's General Data Protection Regulation (GDPR).</p>
+<p>We've updated our <a href="/policies/terms-of-use">Terms of Use</a> and <a href="/policies/privacy">Privacy Policy</a>. Please take a moment to review them and accept to continue.</p>
+<p class='text-center'>
+<a class="btn btn-primary" data-remote="true" rel="nofollow" data-method="POST" href="/account/accept_conditions">I Agree to the Terms of Use and Privacy Policy</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+
+<div aria-hidden='true' aria-labelledby='Card Popup' class='modal fade' id='card-popup-modal' role='dialog' tabindex='-1'>
+<div class='modal-dialog'>
+<div class='modal-content'>
+<div class='modal-header text-center'>
+<button aria-hidden='true' class='close' data-dismiss='modal' type='button'>×</button>
+<h4 class='modal-title' id='card-popup-modal-title'>Card</h4>
+</div>
+<div class='modal-body'>
+<p class='text-center'>
+<img id="card-popup-modal-image" alt="Generic Card Back" src="https://cdn1.mtggoldfish.com/images/gf/back.jpg" />
+</p>
+<p class='text-center'>
+<a class="btn btn-default" id="card-popup-modal-link" href="">Price History</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+
+<div aria-hidden='true' class='layout-typePreferencePopup' id='type-preference-popup'>
+<button class='close' id='type-preference-dismiss'>
+<span aria-hidden='true'>×</span>
+<span class='sr-only'>Close</span>
+</button>
+<div class='layout-typePreferencePopup-content'>
+<div class='layout-typePreferencePopup-description'>
+<p>Welcome to MTGGoldfish. We display prices for both ONLINE and PAPER magic. By default, what prices would you like to see?&nbsp;&nbsp;&nbsp;</p>
+</div>
+<div class='layout-typePreferencePopup-btns'>
+<btn class='btn btn-default btn-paper' id='type-preference-paper'>Paper</btn>
+<btn class='btn btn-default btn-online' id='type-preference-online'>Magic&nbsp;Online</btn>
+<btn class='btn btn-default btn-arena' id='type-preference-arena'>Magic Arena</btn>
+</div>
+</div>
+</div>
+
+</main>
+<div class='layout-bottom-ad'>
+<div id='ad-layout-footer-content'></div>
+</div>
+<footer class='layout-bottom-banner' role='contentinfo'>
+<h2 class='sr-only'>MTGGoldfish Footer</h2>
+<div class='layout-bottom-contents'>
+<div class='layout-footer-panel'>
+<div class='layout-footer-panel-container'>
+<h3>Resources</h3>
+<ul class='layout-footer-panel-menu'>
+<li><a href="/faq">FAQ</a></li>
+<li><a href="/discuss">Discuss</a></li>
+<li><a id="ad-consent" href="javascript:window.__cmp(&#39;showConsentTool&#39;);">Manage Ads Consent</a></li>
+</ul>
+</div>
+<div class='layout-footer-panel-container'>
+<h3>Company</h3>
+<ul class='layout-footer-panel-menu'>
+<li><a href="/policies/privacy">Privacy Policy</a></li>
+<li><a href="/policies/terms-of-use">Terms of Use</a></li>
+<li><a href="/contact">Contact</a></li>
+<li>
+<a data-target='#privacy-modal' data-toggle='modal' href='#'>
+Do Not Sell My Personal Information
+</a>
+</li>
+</ul>
+</div>
+<div class='layout-footer-panel-container'>
+<h3>Goldfish Network</h3>
+<ul class='layout-footer-panel-menu'>
+<li><a href="https://www.pokegoldfish.com">PokeGoldfish</a></li>
+<li><a href="http://www.mtgcoverage.com">MTGCoverage</a></li>
+</ul>
+</div>
+<div class='layout-footer-panel-container'>
+<h3>Contribute</h3>
+<ul class='layout-footer-panel-menu'>
+<li><a href="/tournaments/new">Submit Tournament Results</a></li>
+</ul>
+</div>
+</div>
+<div class='layout-newsletter-panel'>
+<h3>Keep in Touch</h3>
+<p>Sign up to receive email updates from us!</p>
+<form class="form" action="/subscriptions" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="8XH5Uc0TZCkEjWpkA3sXZkGLm7dmBl7/GSn2Az9956YW7+NRbdYE5E1Uvwq80A/qt+bf6+cbXcjGwhLNUywiMg==" />
+<label class='sr-only' for='footer-subscription_email'>Email for Newsletter Subscription</label>
+<input type="text" name="subscription[email]" id="footer-subscription_email" value="" class="form-control layout-newsletter-input" />
+<input type="hidden" name="source" id="source" value="nav_footer" />
+<input type="hidden" name="agreement" id="agreement" value="Sign up to receive email updates from us! All emails include an unsubscribe link. You may opt-out at any time. See our privacy policy." />
+<input type="submit" name="commit" value="Send Me Updates" class="btn btn-default layout-newsletter-btn" data-disable-with="Send Me Updates" />
+</form>
+
+<p class='small' style='margin-top: 5px;'>All emails include an <a href="/subscriptions/unsubscribe">unsubscribe</a> link. You may opt-out at any time. See our <a href="/policies/privacy">privacy policy</a>.</p>
+<h4>Follow Us</h4>
+<ul class='list-inline'>
+<li class='layout-social-item'><a href="https://www.facebook.com/mtggoldfish"><img alt="Facebook Icon" aria-label="MTGGoldfish on Facebook" class="sprite-clementine_facebook" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></a></li>
+<li class='layout-social-item'><a href="https://twitter.com/mtggoldfish"><img alt="Twitter Icon" aria-label="MTGGoldfish on Twitter" class="sprite-clementine_twitter" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></a></li>
+<li class='layout-social-item'><a href="https://www.twitch.tv/mtggoldfish"><img alt="Twitch Icon" aria-label="MTGGOldfish on Twitch" class="sprite-clementine_twitch" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></a></li>
+<li class='layout-social-item'><a href="https://instagram.com/mtggoldfish/"><img alt="Instagram Icon" aria-label="MTGGoldfish on Instagram" class="sprite-clementine_instagram" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></a></li>
+<li class='layout-social-item'><a href="http://mtggoldfish.tumblr.com/"><img alt="Tumblr Icon" aria-label="MTGGoldfish on Tumblr" class="sprite-clementine_tumblr" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></a></li>
+<li class='layout-social-item'><a href="/feed"><img alt="RSS Feed Icon" aria-label="MTGGoldfish&#39;s RSS Feed" class="sprite-clementine_rss" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></a></li>
+<li class='layout-social-item'><a href="mailto:contact@mtggoldfish.com"><img alt="Email Icon" aria-label="Email MTGGoldfish" class="sprite-clementine_email" src="https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif" /></a></li>
+</ul>
+</div>
+<div class='layout-social-panel'>
+<div id='ad-layout-footer-nav'></div>
+</div>
+</div>
+<div class='bottom-shelf'>
+<div class='banner-contents'>
+<p class='layout-copyright-notice'>All original content on this page is © 2012-2020 MTGGoldfish, Inc. and may not be used or reproduced without consent.  Wizards of the Coast, Magic: The Gathering, and their logos are trademarks of Wizards of the Coast LLC. © 1995-2020 Wizards. All rights reserved. MTGGoldfish, Inc. is not affiliated with Wizards of the Coast LLC. Ads by Curse.</p>
+</div>
+</div>
+</footer>
+<script src="https://assets1.mtggoldfish.com/assets/application-5fa8d584c26139d246356027ccb0cde14d3dbb2a1e2b530e8cfdc02d90e8f1ff.js"></script>
+<script src="https://assets1.mtggoldfish.com/assets/google_analytics-8a1ba4924aaade5922c4e5a406dcaaebff79c824497d9d1dd9b913e027f00f1b.js"></script>
+
+</html>
