@@ -20,22 +20,31 @@ def query(sql):
             conn.close()
  
     return result
+
+def buscarCarta(carta):
+    card_control = ""
+    consulta = "select * from mtg_schema.cards where name like '{0}' order by name".format(carta.lower().capitalize())
+    result = query(consulta)
+    if result != []:
+        print("Resultado Encontrados:")
+        print("")
+        for x in range(len(result)):
+            row = result[x]
+            name, expa, cardtype, rarity, manacost, converted, power, defense, loyalty, ability = row[1:11]
+            if card_control != name:
+                print("Nombre: ",name)
+                print("Expansion: ", expa)
+                print("Tipo: ", cardtype)
+                print("Coste: ", manacost)
+                print("Fuerza: ", power)
+                print("Defensa: ", defense)
+                print("Habilidad:", ability)
+                print("")
+                print("")
+                card_control = name
+    else:
+        print("No se encontraron resultados")
     
 if __name__ == '__main__':
     
-    carta = input("Ingrese el nombre de la carta: ")
-    consulta = "select * from mtg_schema.cards where name = '{0}'".format(carta)
-    result = query(consulta)
-    if result == '':
-        print("Resultado Encontrados:")
-        row = result[0]
-        name, expa, cardtype, rarity, manacost, converted, power, defense, loyalty, ability = row[1:11]
-        print("Nombre: ",name)
-        print("Expansion: ", expa)
-        print("Tipo: ", cardtype)
-        print("Coste: ", manacost)
-        print("Fuerza: ", power)
-        print("Defensa: ", defense)
-        print("Habilidad:", ability)
-    else:
-        print("No se encontraron resultados")
+    buscarCarta(input("Ingrese el nombre de la carta: ") + "%")
