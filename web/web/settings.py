@@ -76,8 +76,17 @@ WSGI_APPLICATION = 'web.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        #'ENGINE': 'django.db.backends.sqlite3',
+        #'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.postgresql',
+        'OPTIONS': {
+            'options': '-c search_path=mtg_schema,public'
+        },
+        'NAME': 'mtgdb',
+        'USER': 'mtgdeckcheck',
+        'PASSWORD': 'Temporal1$',
+        'HOST': '192.168.0.203',
+        'PORT': '5432',
     }
 }
 

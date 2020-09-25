@@ -3,6 +3,9 @@ import os
 import wget
 import shutil
 import paths
+from bin.sql import insertDecks
+from bin.sql import queryDeleteDecks
+
 
 def armadoBaseline():
     os.makedirs(paths.tmp)
@@ -43,9 +46,10 @@ def descargaDecks(tipo):
                     pagina2 = paths.mainWeb + deck2
                     wget.download(pagina2, out=paths.deck + tipo)
                      
+
                  
 if __name__ == '__main__':
-    print("Iniciando Sistema de Chequeo de Decks")
+    """print("Iniciando Sistema de Chequeo de Decks")
     print("Sincronizando datos...")
     armadoBaseline()
     print("Sincronizacion Completada")
@@ -57,5 +61,13 @@ if __name__ == '__main__':
     descargaDecks("standard/")
     print("Descarga de Decks de Standard Completa")
     shutil.rmtree(paths.tmp)
-    print("Descarga de Decks Finalizada")
+    print("Descarga de Decks Finalizada")"""
+    queryDeleteDecks()
+    print("Cargando Decks Modern en Base")
+    insertDecks("modern/")
+    print("Cargando Decks Pioneer en Base")
+    insertDecks("pioneer/")
+    print("Cargando Decks Standard en Base")
+    insertDecks("standard/")
+    
     

@@ -1,17 +1,17 @@
 4 Blood Crypt
-2 Call of the Death-Dweller
 2 Castle Locthwain
 3 Claim/Fame
-3 Dragonskull Summit
-2 Dreadbore
+2 Claim the Firstborn
+1 Cling to Dust
+4 Dragonskull Summit
 4 Dreadhorde Arcanist
 2 Fabled Passage
-3 Fatal Push
-3 Fiery Impulse
-3 Foreboding Ruins
+4 Fatal Push
+2 Foreboding Ruins
 2 Kolaghan's Command
 3 Kroxa, Titan of Death's Hunger
-3 Mountain
+4 Mountain
+2 Spark Harvest
 4 Stitcher's Supplier
 4 Swamp
 4 Thoughtseize
@@ -19,13 +19,8 @@
 4 Village Rites
 4 Young Pyromancer
 
-1 Abrade
-2 Cling to Dust
-1 Dreadbore
-3 Duress
-1 Fatal Push
-2 Gifted Aetherborn
-1 Kolaghan's Command
+4 Duress
 1 Lurrus of the Dream-Den
-2 Noxious Grasp
-1 Soul-Guide Lantern
+3 Magma Spray
+3 Pharika's Libation
+4 Soul-Guide Lantern

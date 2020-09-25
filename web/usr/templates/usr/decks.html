@@ -15,15 +15,24 @@
 					<th></th>
 					<th>Name</th>
 					<th>Format</th>
-					<th>Creation Date</th>
-					<th>Edit</th>
+					<th>Complete</th>
+					<th>Details</th>
 					<th>Delete</th>
 				</tr>
+
+				{% for i in decks %}
+					<tr>
+						<td></td>
+						<td>{{i.name}}</td>
+						<td>{{i.format}}</td>
+						<td>0%</td>
+						<td><a class="btn btn-sm btn-info" href="#">View</a></td>
+						<td><a class="btn btn-sm btn-danger" href="#">Delete</a></td>
+					</tr>
+				{% endfor %}
+
 			</table>
 		</div>
-	</div>
-	<div class="col-md-1">
-		<a class="btn btn-primary btn-sm btn-block" href="">Create Deck</a>
 	</div>
 </div>
 {% endblock %}

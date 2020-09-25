@@ -1,41 +1,30 @@
-2 Abrupt Decay
-1 Ashiok, Nightmare Muse
+1 Abrupt Decay
 1 Assassin's Trophy
-1 Atris, Oracle of Half-Truths
 4 Blooming Marsh
 2 Breeding Pool
 1 Eat to Extinction
-1 Emrakul, the Promised End
-1 Extinction Event
 3 Fabled Passage
 4 Fatal Push
 2 Forest
-1 Hinterland Harbor
-1 Ipnu Rivulet
-1 Ishkanah, Grafwidow
+4 Growth Spiral
+3 Hydroid Krasis
 2 Island
-3 Jace, Vryn's Prodigy
-1 Liliana, Waker of the Dead
-1 Liliana, the Last Hope
-2 Murderous Rider
-2 Overgrown Tomb
+3 Lumbering Falls
+4 Nissa, Who Shakes the World
+4 Overgrown Tomb
 4 Satyr Wayfinder
-1 Scavenging Ooze
 1 Swamp
+1 Tamiyo, Collector of Tales
 4 Thoughtseize
-1 Tireless Tracker
-3 Traverse the Ulvenwald
+1 Ugin, the Spirit Dragon
 4 Uro, Titan of Nature's Wrath
-2 Watery Grave
-1 Woodland Cemetery
+1 Vraska, Golgari Queen
+4 Watery Grave
 2 Zagoth Triome
 
-1 Abrupt Decay
-1 Cry of the Carnarium
-2 Disdainful Stroke
+3 Extinction Event
 2 Legion's End
 3 Mystical Dispute
-2 Noxious Grasp
-1 Scavenging Ooze
+2 Narset, Parter of Veils
+3 Negate
 2 Soul-Guide Lantern
-1 Tireless Tracker
